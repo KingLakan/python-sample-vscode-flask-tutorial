@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool:OwnPool
+pool: OwnPool
 strategy:
   matrix:
     Python27:
