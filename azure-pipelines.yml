@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: david-HP
+pool:OwnPool
 strategy:
   matrix:
     Python27:
